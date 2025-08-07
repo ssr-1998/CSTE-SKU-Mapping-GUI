@@ -1,0 +1,5 @@
+2025-08-07 14:38:53,484 - INFO - Mappings loaded Successfully.
+2025-08-07 14:38:53,487 - ERROR - Error checking if SKU 'ST-BTS-cooky-koya-rj-tata-FBA' is combo: 'Combo_SKU'
+2025-08-07 14:38:53,487 - ERROR - Failed to reduce stock for MSKU 'nan': 'MSKU'
+2025-08-07 14:38:53,500 - ERROR - Error checking if SKU 'ST-BTS-koya-rj-shooky-cooky' is combo: 'Combo_SKU'
+2025-08-07 14:38:53,500 - ERROR - Failed to reduce stock for MSKU 'Bts_Koya_RJ_Shooky_Cooky': 'MSKU'

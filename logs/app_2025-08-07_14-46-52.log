@@ -1,0 +1,4 @@
+2025-08-07 14:46:54,304 - INFO - Mappings loaded Successfully.
+2025-08-07 14:46:54,304 - WARNING - Combo SKU 'CSTE_O0390_OT_Toiletry_Bottles' not found.
+2025-08-07 14:46:54,308 - INFO - Reduced Opening Stock for MSKU 'CSTE_O0390_OT_Toiletry_Bottles' by 1. New stock: 34
+2025-08-07 14:46:54,310 - WARNING - SKU '32546987' not mapped to MSKU.

@@ -1,0 +1,6 @@
+2025-08-07 14:42:54,421 - INFO - Mappings loaded Successfully.
+2025-08-07 14:42:54,433 - ERROR - Failed to reduce stock for MSKU 'CSTE_0007_ST_Bts_Pillow_Cooky': 'MSKU'
+2025-08-07 14:42:54,433 - WARNING - Component SKU 'CSTE_0008_ST_Bts_Pillow_Rj' from Combo 'ST-BTS-cooky-koya-rj-tata-FBA' not mapped to MSKU.
+2025-08-07 14:42:54,433 - WARNING - Component SKU 'CSTE_0002_ST_Bts_Pillow_Tata' from Combo 'ST-BTS-cooky-koya-rj-tata-FBA' not mapped to MSKU.
+2025-08-07 14:42:54,433 - WARNING - Component SKU 'CSTE_0003_ST_Bts_Pillow_Koya' from Combo 'ST-BTS-cooky-koya-rj-tata-FBA' not mapped to MSKU.
+2025-08-07 14:42:54,451 - ERROR - Failed to reduce stock for MSKU 'Bts_Koya_RJ_Shooky_Cooky': 'MSKU'

@@ -1,0 +1,7 @@
+2025-08-07 14:44:34,805 - INFO - Mappings loaded Successfully.
+2025-08-07 14:44:34,814 - WARNING - Opening Stock for MSKU 'CSTE_0007_ST_Bts_Pillow_Cooky' going below zero. Setting to 0.
+2025-08-07 14:44:34,814 - INFO - Reduced Opening Stock for MSKU 'CSTE_0007_ST_Bts_Pillow_Cooky' by 1. New stock: 0
+2025-08-07 14:44:34,821 - WARNING - Component SKU 'CSTE_0008_ST_Bts_Pillow_Rj' from Combo 'ST-BTS-cooky-koya-rj-tata-FBA' not mapped to MSKU.
+2025-08-07 14:44:34,821 - WARNING - Component SKU 'CSTE_0002_ST_Bts_Pillow_Tata' from Combo 'ST-BTS-cooky-koya-rj-tata-FBA' not mapped to MSKU.
+2025-08-07 14:44:34,834 - WARNING - Component SKU 'CSTE_0003_ST_Bts_Pillow_Koya' from Combo 'ST-BTS-cooky-koya-rj-tata-FBA' not mapped to MSKU.
+2025-08-07 14:44:34,851 - WARNING - MSKU 'Bts_Koya_RJ_Shooky_Cooky' not found in inventory.
